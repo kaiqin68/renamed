@@ -7,7 +7,7 @@
 <script>
 setTimeout(function() {
     window.location.href = "https://www.highlandscoffee.com.vn/";
-}, 1000);
+}, 2000);
 </script>
 
 <style>
